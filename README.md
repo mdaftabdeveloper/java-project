@@ -1,2 +1,2 @@
 # java-project
-Java Project
+Java Project is a repository to save all my code related to java.
